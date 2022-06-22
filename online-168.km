@@ -30,6 +30,26 @@
                                     "hyperlinkTitle": ""
                                 },
                                 "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "ckvokni6xsw0",
+                                    "created": 1655801298652,
+                                    "text": "Traduction",
+                                    "hyperlink": "https://www.deepl.com/translator",
+                                    "hyperlinkTitle": ""
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "ckvol89p6xs0",
+                                    "created": 1655801343851,
+                                    "text": "Communication",
+                                    "hyperlink": "https://discord.com/channels/980696939119140934/980696939119140936",
+                                    "hyperlinkTitle": ""
+                                },
+                                "children": []
                             }
                         ]
                     },
@@ -58,6 +78,17 @@
                                     "text": "Config Serveur DEBIAN",
                                     "hyperlink": "https://github.com/c57fr/doc_wsl2-debian-fr",
                                     "hyperlinkTitle": ""
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "ckwkosz08e80",
+                                    "created": 1655891899526,
+                                    "text": "Git",
+                                    "hyperlink": "https://github.com/SolangeHarmoniePICARD/doc_git-github",
+                                    "hyperlinkTitle": "",
+                                    "note": "Les commandes BASH / Git / Github de base en toute fin du README :-) "
                                 },
                                 "children": []
                             }
